@@ -2,9 +2,9 @@
 
 # Hi, I'm Yash 👋
 
-### Full-Stack Developer · Web Application Builder · Problem Solver
+### Full-Stack Developer · Data Science Student · Web Application Builder · Problem Solver
 
-I build practical, user-focused applications with modern web technologies and enjoy turning ideas into polished digital experiences.
+I build practical, user-focused applications with modern web technologies, explore data-driven solutions, and enjoy turning ideas into polished digital experiences.
 
 <p>
   <a href="https://github.com/yash241370-debug">
@@ -20,8 +20,9 @@ I build practical, user-focused applications with modern web technologies and en
 ## 🚀 About Me
 
 - 💻 I develop full-stack web applications and responsive user interfaces.
-- 🌱 I’m continuously improving my skills in scalable application architecture.
-- 🧩 I enjoy working across frontend, backend, databases, and deployment.
+- 📊 I’m also a data science student interested in data analysis, machine learning, and finding meaningful insights from data.
+- 🌱 I’m continuously improving my skills in scalable application architecture and data-driven problem solving.
+- 🧩 I enjoy working across frontend, backend, databases, data, and deployment.
 - 🤝 Open to collaboration, learning opportunities, and interesting projects.
 - ⚡ I believe great software should be useful, simple, and enjoyable to use.
 
@@ -36,6 +37,16 @@ I build practical, user-focused applications with modern web technologies and en
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Data Science & Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 <p>
