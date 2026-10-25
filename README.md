@@ -62,6 +62,7 @@ I build practical, user-focused applications with modern web technologies, explo
 
 | Project | Description |
 | --- | --- |
+| [Trekking Management Application](https://github.com/yash241370-debug/Trekking-Management-Application) | A robust, role-based trekking management system built with Flask and SQLite, featuring dynamic slot management, secure user access states, automated FPDF e-ticketing, and centralized administrative controls. |
 | [Placement Portal](https://github.com/yash241370-debug/placement_portal) | A modern platform focused on simplifying placement and recruitment workflows. |
 | [Quicksy](https://github.com/yash241370-debug/quicksy-frontend) | A full-stack product built with dedicated frontend and backend applications. |
 | [CodeAlpha Tasks](https://github.com/yash241370-debug/codealpha_tasks) | A collection of full-stack web development projects built during my internship experience. |
