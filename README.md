@@ -81,6 +81,12 @@ I build practical, user-focused applications with modern web technologies, explo
 ## 🤝 Let's Connect
 
 <p>
+  <a href="https://www.linkedin.com/in/yash-chaubey-657709329">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.credly.com/users/yash-kumar-chaubey">
+    <img src="https://img.shields.io/badge/Credly-Certifications-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  </a>
   <a href="https://github.com/yash241370-debug">
     <img src="https://img.shields.io/badge/GitHub-yash241370--debug-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
